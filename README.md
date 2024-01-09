@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm passionate about backend development, blockcha
 ## 🔧 Technologies & Tools
 
 - Python
-- linox
+- linux
 - ubuntu
 - data analyst
 - Git | GitHub
